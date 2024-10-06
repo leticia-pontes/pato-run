@@ -1,0 +1,34 @@
+# Ignorar arquivos de compilação
+/dist/*
+/*.hex
+/*.lst
+/*.cof
+/*.bin
+/*.o
+/*.pdb
+
+# Ignorar diretórios do MPLAB X
+/.mplabx/
+/PATO_RUN.X/*
+/.build/
+/.mps
+/.mplab/
+
+# Ignorar arquivos temporários
+*.tmp
+*.bak
+*.swp
+
+# Ignorar arquivos de configuração do IDE
+*.xc8
+*.xc16
+*.xc32
+*.pdb
+
+# Ignorar outros arquivos temporários
+*.d
+*.dep
+*.s
+
+# Ignorar arquivos de backup
+*~
