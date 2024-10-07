@@ -50,4 +50,4 @@ O jogo detecta colisões entre o pato e as pedras. Se uma pedra atingir a posiç
 - Incluir um sistema de pontuação que aumente a cada pedra evitada.
 
 ## Licença
-Este projeto é destinado ao uso acadêmico e educacional.
+Este projeto possui licença MIT.
